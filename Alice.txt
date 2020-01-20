@@ -1,4 +1,2 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-Some text on the second line.
-Merging div branches Alice.
-Rebasing added text to Alice.
+Change made on the website.
