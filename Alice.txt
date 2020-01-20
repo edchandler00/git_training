@@ -1,3 +1,2 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-Some text on the second line.
-Merging div branches Alice.
+Rewrite History (Alice)
