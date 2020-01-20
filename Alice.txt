@@ -4,4 +4,5 @@ Merging div branches Alice.
 Rebasing added text to Alice.
 Changing Alice in working directory.
 Change made on the website.
-
+Change Alice again (Pulling with conflicts)
+>>>>>>> 767ec209b7bed650d13c92466497cb7bef8f3c72
